@@ -21,3 +21,9 @@ cd ..\RT2_FirstAssignment
 ```bash
 make html
 ``` 
+-------------------------------------------------------------
+The generated HTML file is visible in this repository:
+
+```bash
+https://github.com/Mobina-A/RT2_FirstAssignment/blob/main/build/html/index.html
+``` 
